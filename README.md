@@ -34,7 +34,7 @@ Here you'll find a showcase of my work, interests, and journey as a developer.
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | Recycling App | A modern app designed to help users track, sort, and promote recycling efforts in their community. | React Native, Node.js, MongoDB | [Recycling App Repo](https://github.com/hazemabdo15/recycling-app) |
-| ITI Graduation Project - Recycling System | Comprehensive platform for waste management and recycling in collaboration with ITI. | ReactJS, Node.js, MongoDB | [ITI-Graduation-project-recycling-system](https://github.com/EsraaAhmedAli/ITI-Graduation-Project-Recycling-System) |
+| ITI Graduation Project - Recycling System | Comprehensive platform for waste management and recycling in collaboration with ITI. | ReactJS, Node.js, MongoDB | [Repository](https://github.com/EsraaAhmedAli/ITI-Graduation-Project-Recycling-System) \| [Demo](https://krakeeb.vercel.app/) |
 
 ---
 
